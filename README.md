@@ -1,21 +1,26 @@
 # Payload_Generator
 Generate Advanced Payload With Custom Headers And Test Your Payload To see The Respone
 For Termux :
-$ pkg install got
-$ git  clone https://github.com/mubarak823/Payload_Generator/
-$ cd Payload_Generator 
-$ bash Gen.sh
+<h4 style="background-color:#111;color:white">
+$ pkg install got</br>
+$ git  clone https://github.com/mubarak823/Payload_Generator/</br>
+$ cd Payload_Generator </br>
+$ bash Gen.sh</br></h4>
 Usage :
-GET : <Your Host Get>
-Host : <Your Host>
-User-Agent: <User Agent U Can Leave it empty>
-Add More Header ? Yes/no : <Yes To Add Custom Headers>
-Your Header : Header Value
-When You Complete Adding Customs Headers Type:
-$ end
-And Click Enter
-Done Your Payload is Now Generated Successfully !
-Available Payloads Right Now :
-HTTP INJECTOR PAYLOAD
-HTTP CUSTOM PAYLOAD 
-we are working To Add Other Payloads Methods So.. Stay Tune
+<h4>
+GET : Your Host Get</br>
+Host : Your Host</br>
+User-Agent: User Agent... U Can Leave it empty</br>
+Add More Header ? Yes/no : Yes To Add Custom Headers</br>
+Your Header : Header Value</br>
+</h4>
+When You Complete Adding Customs Headers Type:</br>
+<h4>
+$ end</br>
+</h4>
+And Click Enter</br>
+Done Your Payload is Now Generated Successfully !</br>
+Available Payloads Right Now :</br>
+HTTP INJECTOR PAYLOAD</br>
+HTTP CUSTOM PAYLOAD </br>
+we are working To Add Other Payloads Methods So.. Stay Tune</br>
