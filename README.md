@@ -3,8 +3,8 @@ Generate Advanced Payload With Custom Headers And Test Your Payload To see The R
 For Termux :
 <h4 style="background-color:#111;color:white">
 $ pkg install got</br>
-$ git  clone https://github.com/mubarak823/Payload_Generator/</br>
-$ cd Payload_Generator </br>
+$ git  clone https://github.com/mubarak823/Payload_Injector/</br>
+$ cd Payload_Injector </br>
 $ bash Gen.sh</br></h4>
 Usage :
 <h4>
