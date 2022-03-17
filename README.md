@@ -5,7 +5,7 @@ For Termux :
 $ pkg install got</br>
 $ git  clone https://github.com/mubarak823/Payload_Injector/</br>
 $ cd Payload_Injector </br>
-$ bash Gen.sh</br></h4>
+$ bash run.sh</br></h4>
 Usage :
 <h4>
 GET : Your Host Get</br>
