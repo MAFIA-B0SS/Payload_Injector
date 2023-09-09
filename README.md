@@ -6,7 +6,7 @@ $ pkg install got</br>
 $ git  clone https://github.com/MAFIA-B0SS/Payload_Injector/</br>
 $ cd Payload_Injector </br>
 $ bash run.sh</br></h4>
-Usage :
+<b>Usage </b>:</br>
 <b>GET</b> : URL</br>
 <b>Host</b> : Your Host</br>
 <b>User-Agent</b>: User Agent... U Can Leave it empty</br>
