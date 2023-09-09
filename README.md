@@ -3,18 +3,16 @@ Generate Advanced Payload With Custom Headers And Test Your Payload To see The R
 For Termux :
 <h4 style="background-color:#111;color:white">
 $ pkg install got</br>
-$ git  clone https://github.com/mubarak823/Payload_Injector/</br>
+$ git  clone https://github.com/MAFIA-B0SS/Payload_Injector/</br>
 $ cd Payload_Injector </br>
 $ bash run.sh</br></h4>
 Usage :
-<h4>
-GET : Your Host Get</br>
-Host : Your Host</br>
-User-Agent: User Agent... U Can Leave it empty</br>
-Add More Header ? Yes/no : Yes To Add Custom Headers</br>
+<b>GET</b> : URL</br>
+<b>Host</b> : Your Host</br>
+<b>User-Agent</b>: User Agent... U Can Leave it empty</br>
+<b>Add More Header ? Yes/no </b>: Yes To Add Custom Headers</br>
 Your Header : Header Value</br>
-</h4>
-When You Complete Adding Customs Headers Type:</br>
+<i>When You Complete Adding Customs Headers Type:</i></br>
 <h4>
 $ end</br>
 </h4>
